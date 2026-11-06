@@ -257,13 +257,6 @@ Lightweight calculator application with an accessible interface.
 
 ---
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## GitHub Analytics
 
 <p align="center">
@@ -277,35 +270,32 @@ Lightweight calculator application with an accessible interface.
 
 ---
 
-## Contribution Activity
+## 🎯 Currently Focused On
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavesh-bhoi&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## Currently Focused On
-
-- 🏗 Production-level **LMS** and **ERP + CRM** architecture
-- 🔐 Auth systems, role-based dashboards, and multi-tenant SaaS patterns
-- 🚀 Advanced **Next.js** — Server Actions, streaming, and edge deployments
-- ✍️ Writing about performance and front-end craft at **[bhavvesh.in/blog](https://www.bhavvesh.in/blog)**
+- 🏗 **Enterprise Architecture** — Scalable CRM, ERP, LMS, and SaaS platforms.
+- ⚙️ **Backend Engineering** — API design, database optimization, and system architecture.
+- ☁️ **Cloud & DevOps** — AWS, Docker, Linux, VPS, and deployment automation.
+- 🔐 **Application Security** — Authentication, RBAC, and multi-tenant systems.
+- ⚡ **Performance Engineering** — Scalable applications and optimized user experiences.
+- 🚀 **Product Engineering** — Building, deploying, and maintaining real-world software products.
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-I'm actively looking for a **full-time Full Stack Developer role**.
+I'm always open to connecting with developers, collaborating on interesting projects, and exploring new **Full Stack Software Engineering opportunities**.
 
-- 🌐 **Portfolio:** [bhavvesh.in](https://www.bhavvesh.in)
+- 🌐 **Personal Portfolio:** [bhavvesh.in](https://www.bhavvesh.in)
+- 💻 **Work Brand:** [Bhavesh Works](https://works.bhavvesh.in)
 - 💼 **LinkedIn:** [linkedin.com/in/bhavesh-bhoi](https://www.linkedin.com/in/bhavesh-bhoi)
-- 📬 **Email:** bhavubhoi806@gmail.com
+- 📬 **Email:** [connect@bhavvesh.in](mailto:connect@bhavvesh.in)
 - 💬 **WhatsApp:** [+91 70966 72257](https://wa.me/917096672257)
 
 ---
 
-<p align="center"><strong>Every millisecond and every pixel accounted for.</strong></p>
+<p align="center">
+  <strong>Engineering beyond expectations. Building with purpose.</strong>
+</p>
 
 <!-- Bottom Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7F00FF,100:00E5FF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:7F00FF,100:00E5FF&section=footer" alt="Footer wave"/>
