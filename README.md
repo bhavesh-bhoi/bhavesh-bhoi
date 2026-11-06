@@ -98,18 +98,162 @@ My experience includes developing CRM platforms, ERP systems, Learning Managemen
 
 ---
 
-## Featured Projects
 
-| Project | Description | Stack | Demo |
-|---|---|---|---|
-| **Zentry Clone** | Award-winning landing page rebuilt pixel by pixel with advanced scroll animations | React · Tailwind · GSAP | [Live ↗](https://zentry-io.vercel.app/) |
-| **NoteStream** | Task manager with AI-powered suggestions and real-time sync | JS · Tailwind · GSAP · Supabase | [Live ↗](https://note-stream-pi.vercel.app) |
-| **Global News Hub** | News aggregator wired to three live APIs with refined UI | JS · Tailwind · NewsAPI · GNews | [Live ↗](https://www.bhavvesh.in/projects/global-news-hub) |
-| **NexaShop** | Full e-commerce experience with smooth transitions | React · Tailwind · Framer Motion | [Live ↗](https://www.bhavvesh.in/projects/nexashop) |
-| **ClimeCast** | Real-time weather app with responsive design | HTML · CSS · JS · OpenWeather API | [Live ↗](https://climecast-weather.netlify.app) |
-| **OmniCalc** | Lightweight, accessible JS calculator | HTML · CSS · JS | [Live ↗](https://omnicalc.vercel.app) |
+## 🏢 Professional Projects
 
-[→ View all projects on bhavvesh.in](https://www.bhavvesh.in/projects)
+*Enterprise applications independently developed during my tenure at Aina Tech Services LLP, covering CRM, business management, and learning management solutions.*
+
+### 01. Aina CRM
+**Enterprise Customer Relationship Management Platform**
+
+A full-stack CRM platform built to streamline business operations, customer relationship management, and organizational workflows.
+
+**Development Highlights:**
+- Designed and developed the application from the ground up.
+- Built modules for leads, tasks, projects, quotations, and invoices.
+- Implemented authentication, role-based access control (RBAC), and department-level permissions.
+- Developed database architecture, backend APIs, and real-time application functionality.
+- Worked on production deployment and application infrastructure.
+
+**Technologies:** `Next.js` · `React` · `TypeScript` · `MySQL` · `Prisma` · `Socket.io`
+
+**Application:** [crm.ainatech.in](https://crm.ainatech.in)
+
+---
+
+### 02. Vittmantra CRM
+**Customer Relationship Management Platform**
+
+A dedicated CRM application developed to manage customer relationships, business operations, and organization-specific workflows.
+
+**Development Highlights:**
+- Designed and developed the application from scratch.
+- Implemented frontend interfaces and backend functionality.
+- Developed database structures and API integrations.
+- Built application features around business requirements.
+- Worked on application deployment and production delivery.
+
+**Application:** [crm.vittmantra.com](https://crm.vittmantra.com)
+
+---
+
+### 03. Equitywala CRM
+**Business Relationship Management Platform**
+
+A custom CRM solution developed to support business-specific customer management and operational workflows.
+
+**Development Highlights:**
+- Developed the application from the ground up.
+- Implemented frontend and backend functionality.
+- Worked on database architecture and API integration.
+- Developed features based on operational requirements.
+- Prepared the application for production use.
+
+**Application:** [crm.equitywala.com](https://crm.equitywala.com)
+
+---
+
+### 04. Aina Internal CRM
+**Internal Business & Operations Management System**
+
+An internal enterprise platform developed to manage company operations, team collaboration, and business processes.
+
+**Development Highlights:**
+- Designed and developed a modular CRM application.
+- Implemented leads, tasks, projects, quotations, and invoice management.
+- Built department-based access control and advanced permission management.
+- Implemented real-time communication using Socket.io.
+- Developed administrative modules for users, departments, and company settings.
+- Integrated database operations, authentication, and business workflows.
+
+**Technologies:** `Next.js` · `React` · `TypeScript` · `MySQL` · `Prisma` · `Socket.io`
+
+**Application:** [ainacrm.ainatech.in](https://ainacrm.ainatech.in)
+
+---
+
+### 05. Aina LMS
+**Learning Management System**
+
+A learning management platform developed to support digital education, training operations, and structured learning workflows.
+
+**Development Highlights:**
+- Designed and developed the LMS application from scratch.
+- Worked on frontend architecture and application functionality.
+- Developed backend services and database integrations.
+- Implemented learning-related workflows and platform features.
+- Contributed to application deployment and production readiness.
+
+**Application:** [lms.ainatech.in](http://lms.ainatech.in)
+
+---
+
+### 06. Bliss Training Academy
+**Educational & Training Platform**
+
+A dedicated digital platform developed for Bliss Training Academy to support its online presence and educational services.
+
+**Development Highlights:**
+- Designed and developed the platform from the ground up.
+- Built responsive frontend interfaces.
+- Implemented website functionality and integrations.
+- Focused on usability, performance, and responsive design.
+
+**Application:** [blisstrainingacademy.in](https://blisstrainingacademy.in)
+
+---
+
+## 💻 Personal & Independent Projects
+
+*Independent applications, experiments, and products developed to explore modern technologies, frontend engineering, and full-stack development.*
+
+### NoteStream
+Task management application featuring AI-powered suggestions and real-time synchronization.
+
+`JavaScript` · `Tailwind CSS` · `Supabase`
+
+[Live Demo ↗](https://note-stream-pi.vercel.app)
+
+### NexaShop
+Modern e-commerce experience featuring responsive interfaces and smooth transitions.
+
+`React` · `Tailwind CSS` · `Framer Motion`
+
+[Live Demo ↗](https://www.bhavvesh.in/projects/nexashop)
+
+### Zentry Clone
+Interactive landing page recreation featuring advanced scroll animations and visual storytelling.
+
+`React` · `Tailwind CSS` · `GSAP`
+
+[Live Demo ↗](https://zentry-io.vercel.app/)
+
+### Global News Hub
+Multi-source news aggregation platform integrating live news APIs.
+
+`JavaScript` · `Tailwind CSS` · `NewsAPI` · `GNews`
+
+[Live Demo ↗](https://www.bhavvesh.in/projects/global-news-hub)
+
+### ClimeCast
+Responsive weather application providing real-time weather information.
+
+`HTML` · `CSS` · `JavaScript` · `OpenWeather API`
+
+[Live Demo ↗](https://climecast-weather.netlify.app)
+
+### OmniCalc
+Lightweight calculator application with an accessible interface.
+
+`HTML` · `CSS` · `JavaScript`
+
+[Live Demo ↗](https://omnicalc.vercel.app)
+
+<p align="center">
+  <a href="https://www.bhavvesh.in/projects">
+    <img src="https://img.shields.io/badge/Explore-All%20Projects-7F00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
