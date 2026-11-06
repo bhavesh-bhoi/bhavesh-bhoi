@@ -37,7 +37,7 @@ During my time at **Aina Tech Services LLP**, I worked across the complete softw
 
 My experience includes developing CRM platforms, ERP systems, Learning Management Systems, business automation solutions, and interactive web applications.
 
-- 💼 Professional experience: 18 months at Aina Tech Services LLP
+- 💼 Professional experience: 7 months at Aina Tech Services LLP
 - 🚀 Domain experience: CRM, ERP, LMS, SaaS and enterprise software
 - 🏗 Infrastructure: AWS, Docker, VPS and production deployments
 - 🗄 Backend: Node.js, Express, PostgreSQL, MySQL, MongoDB
