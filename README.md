@@ -28,17 +28,24 @@
 
 ---
 
+
 ## About Me
 
-I'm **Bhavesh Bhoi**, a Full Stack Software Developer based in **Anand, Gujarat, India**, currently building production CRM and enterprise platforms at **Aina Tech Services LLP**.
+I'm **Bhavesh Bhoi**, a Full Stack Software Developer with hands-on professional experience building and delivering production-grade software applications, enterprise platforms, and scalable web solutions.
 
-I work across the full stack — PostgreSQL schemas, REST APIs with Node.js and Express, and performant animated frontends with React, Next.js, and GSAP. I don't hand off between layers. I own the whole path from the first database migration to the last pixel on screen.
+During my time at **Aina Tech Services LLP**, I worked across the complete software development lifecycle — from system architecture, database design, backend engineering, and frontend development to containerization, cloud infrastructure, and production deployment.
 
-- 🔭 Currently building: **LMS** and a **custom ERP + CRM suite** at Aina Tech Services LLP
-- 🚀 Shipped: **3 production CRM platforms** — Aina CRM, Vittmantra CRM, Company CRM
-- ⚡ Rule: Nothing ships until it holds **60fps on a mid-range phone**
-- 🎯 Seeking: A **full-time Software Developer role** where engineering and craft matter equally
-- 🌐 Portfolio: **[bhavvesh.in](https://www.bhavvesh.in)**
+My experience includes developing CRM platforms, ERP systems, Learning Management Systems, business automation solutions, and interactive web applications.
+
+- 💼 Professional experience: 18 months at Aina Tech Services LLP
+- 🚀 Domain experience: CRM, ERP, LMS, SaaS and enterprise software
+- 🏗 Infrastructure: AWS, Docker, VPS and production deployments
+- 🗄 Backend: Node.js, Express, PostgreSQL, MySQL, MongoDB
+- ⚡ Frontend: React, Next.js, Angular, TypeScript
+- 🎨 UI Engineering: GSAP, Framer Motion and responsive design
+- 🌐 Personal Portfolio: [bhavvesh.in](https://www.bhavvesh.in)
+- 💻 Work Brand: [works.bhavvesh.in](https://works.bhavvesh.in)
+
 
 ---
 
@@ -56,24 +63,33 @@ I work across the full stack — PostgreSQL schemas, REST APIs with Node.js and 
 
 ---
 
+
 ## Professional Experience
 
 ### Full Stack Software Developer — Aina Tech Services LLP
-`May 2025 – Present · Anand, Gujarat, India`
 
-- Designed and shipped **three production CRM platforms** end to end — Aina CRM, Vittmantra CRM, and Company CRM
-- Built Next.js frontends with type-safe PostgreSQL data layers using Drizzle ORM
-- Delivered GSAP-driven animated client marketing sites with scroll storytelling
-- Deployed and managed containerised applications on **AWS** and self-managed **VPS infrastructure**
-- Currently architecting a **Learning Management System** and a **custom ERP + CRM suite**
+`May 1, 2025 – November 9, 2026`
+
+- Designed, developed, and delivered **production CRM platforms** and **enterprise business applications**.
+- Worked across the **complete software development lifecycle** — frontend, backend, database architecture, API development, and deployment.
+- Developed full-stack applications using **Next.js, React, Node.js, Express, and TypeScript**.
+- Designed **PostgreSQL database schemas** and implemented type-safe data access using **Drizzle ORM and Prisma**.
+- Worked with **AWS cloud infrastructure, Docker, containerized applications, and Hostinger VPS environments**.
+- Configured and managed **VPS deployments, application hosting, server environments, and production application delivery**.
+- Implemented **authentication, role-based access control (RBAC), department-level permissions, and complex business workflows**.
+- Contributed to **Learning Management Systems (LMS)** and **custom ERP development** involving interconnected business modules.
+- Built **interactive websites and digital experiences** using **GSAP** and modern frontend technologies.
+- Managed application development from **initial requirements and system architecture through production deployment and maintenance**.
 
 ### Full-Stack Web Development (15-month program) — Red & White Institute, Anand
+
 `May 2025 – July 2026`
 
 - Intensive hands-on curriculum across the full MERN stack
 - Built and deployed multiple end-to-end production applications
 
 ### Self-Taught Builder & B.Sc CA & IT — Personal Projects
+
 `Jun 2022 – Apr 2025`
 
 - Built 15+ projects ranging from UI clones to full-stack applications
